@@ -1,1 +1,7 @@
-"[]" 
+[{
+"relation": ["delegate_permission/common.handle_all_urls"],
+
+"target" : { "namespace": "android_app", "package_name": "com.bab.SampleUniversalLi",
+
+		   "sha256_cert_fingerprints": ["33:BB:0A:34:BF:63:B5:E6:10:D7:4E:01:3F:2F:D3:87:71:BB:35:7B:94:91:74:8E:03:0D:05:9E:01:DD:7A:F7"] }
+}]
